@@ -15,9 +15,7 @@ A full-stack web application where users can rate stores, view feedback, and int
 - 🎨 Modern UI
   Styled with Tailwind CSS for a sleek, responsive interface.
   🛠️ Tech Stack
-  | | | | |
-  | | | | |
-  | | | | |
+  React , PostgreSQL, Node.js, TailWindCss.
   📁 Project Structure
   RATING-SHOW-APP/
   ├── backend/
@@ -54,13 +52,7 @@ cd frontend
 npm install
 npm run dev
 
-🧪 Sample Credentials
-| | | |
-| | | |
-| | | |
-| | | |
-📌 Notes
-
+Notes:
 - Ensure PostgreSQL is running and seeded with sample data.
 - Tailwind CSS is used for styling — tweak tailwind.config.js for custom themes.
 - All API routes are protected via JWT and role-based middleware.
